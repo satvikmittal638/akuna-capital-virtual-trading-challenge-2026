@@ -1,0 +1,222 @@
+{
+  "cells": {
+    "1": {
+      "base": {
+        "field": 2,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 0.06,
+        "our": 0.06,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "10": {
+      "base": {
+        "field": 3,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 18.34,
+        "our": 18.34,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "11": {
+      "base": {
+        "field": 2,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 24.92,
+        "our": 24.92,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "12": {
+      "base": {
+        "field": 4,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 12.61,
+        "our": 12.61,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "13": {
+      "base": {
+        "field": 3,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 18.71,
+        "our": 18.71,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "14": {
+      "base": {
+        "field": 3,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 12.31,
+        "our": 12.31,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "15": {
+      "base": {
+        "field": 3,
+        "leader": "Fixed Width 0.05",
+        "leader_pnl": 19.91,
+        "our": -23.63,
+        "rank": 3,
+        "score": 0.4
+      }
+    },
+    "16": {
+      "base": {
+        "field": 4,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 43.82,
+        "our": 43.82,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "17": {
+      "base": {
+        "field": 4,
+        "leader": "Fixed Width 0.05",
+        "leader_pnl": 41.36,
+        "our": -16.07,
+        "rank": 3,
+        "score": 0.6
+      }
+    },
+    "18": {
+      "base": {
+        "field": 4,
+        "leader": "Situational Unawareness",
+        "leader_pnl": 18.43,
+        "our": -7.88,
+        "rank": 2,
+        "score": 0.8
+      }
+    },
+    "19": {
+      "base": {
+        "field": 4,
+        "leader": "Telescoping Theo",
+        "leader_pnl": -12.17,
+        "our": -12.17,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "2": {
+      "base": {
+        "field": 3,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 0.75,
+        "our": 0.75,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "3": {
+      "base": {
+        "field": 3,
+        "leader": "Fixed Width 0.05",
+        "leader_pnl": 2.9,
+        "our": -0.02,
+        "rank": 3,
+        "score": 1.0
+      }
+    },
+    "4": {
+      "base": {
+        "field": 2,
+        "leader": "Stalemate Quoter",
+        "leader_pnl": 16.0,
+        "our": 15.47,
+        "rank": 2,
+        "score": 0.4
+      }
+    },
+    "5": {
+      "base": {
+        "field": 3,
+        "leader": "Fixed Width 0.25",
+        "leader_pnl": 13.34,
+        "our": -6.74,
+        "rank": 3,
+        "score": 0.4
+      }
+    },
+    "6": {
+      "base": {
+        "field": 2,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 8.65,
+        "our": 8.65,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "7": {
+      "base": {
+        "field": 3,
+        "leader": "Fixed Width 0.1",
+        "leader_pnl": 17.12,
+        "our": 9.86,
+        "rank": 2,
+        "score": 0.7
+      }
+    },
+    "8": {
+      "base": {
+        "field": 3,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 41.8,
+        "our": 41.8,
+        "rank": 1,
+        "score": 1.0
+      }
+    },
+    "9": {
+      "base": {
+        "field": 3,
+        "leader": "Telescoping Theo",
+        "leader_pnl": 22.18,
+        "our": 22.18,
+        "rank": 1,
+        "score": 1.0
+      }
+    }
+  },
+  "submissions": {
+    "baseline": {
+      "assignment": {},
+      "per_test": {
+        "1": 1.0,
+        "10": 1.0,
+        "11": 1.0,
+        "12": 1.0,
+        "13": 1.0,
+        "14": 1.0,
+        "15": 0.4,
+        "16": 1.0,
+        "17": 0.6,
+        "18": 0.8,
+        "19": 1.0,
+        "2": 1.0,
+        "3": 1.0,
+        "4": 0.4,
+        "5": 0.4,
+        "6": 1.0,
+        "7": 0.7,
+        "8": 1.0,
+        "9": 1.0
+      },
+      "results": "variants/results/_baseline_16.30.txt",
+      "total": 16.3
+    }
+  }
+}

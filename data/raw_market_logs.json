@@ -1,0 +1,9 @@
+[
+  {
+    "session_id": "session_1",
+    "total_events": 1,
+    "raw_logs": [
+      "> Telescoping Theo sold line follows\n> We WON the trade! Executed: sold 1 @ 1.00 against 534301 on option 5802326\n> FED: 3.50, AJR: 2274.87, THR: 240.84\n> FED: 3.50, AJR: 2304.38, THR: 236.67\n> FED: 3.25, AJR: 2325.63, THR: 234.24\n> Telescoping Theo bought line follows\n> We WON the trade! Executed: bought 1 @ 0.00 against 534301 on option 4322430\n> FED: 3.25, AJR: 2347.66, THR: 230.29\n> option 4322430 expired with expiry_val=0.00\n> Telescoping Theo sold line follows\n> We WON the trade! Executed: sold 1 @ 1.00 against 444097 on option 3381362\n> FED: 3.00, AJR: 2327.20, THR: 230.77\n> option 5802326 expired with expiry_val=0.00\n> FED: 3.25, AJR: 2281.72, THR: 227.59\n> FED: 3.25, AJR: 2317.29, THR: 229.39\n> FED: 3.00, AJR: 2329.03, THR: 235.90\n> option 3381362 expired with expiry_val=1.00\n> FED: 3.00, AJR: 2387.05, THR: 238.26\n> FED: 3.25, AJR: 2410.35, THR: 246.51\n> FED: 3.25, AJR: 2390.33, THR: 241.03\n> FED: 3.25, AJR: 2339.42, THR: 240.05\n> Telescoping Theo bought line follows\n> We WON the trade! Executed: bought 1 @ 0.00 against 948025 on option 7942885\n> FED: 3.25, AJR: 2329.21, THR: 240.35\n> Telescoping Theo bought line follows\n> We WON the trade! Executed: bought 1 @ 0.00 against 444097 on option 7418282\n> FED: 3.50, AJR: 2258.56, THR: 239.45\n> option 7942885 expired with expiry_val=0.00\n> FED: 3.75, AJR: 2249.99, THR: 234.04\n> FED: 3.75, AJR: 2249.18, THR: 234.71\n> option 7418282 expired with expiry_val=0.00\n> FED: 3.50, AJR: 2351.27, THR: 240.02\n> Telescoping Theo sold line follows\n> We WON the trade! Executed: sold 1 @ 1.00 against 242756 on option 9507686\n> FED: 3.75, AJR: 2448.19, THR: 250.22\n> option 9507686 expired with expiry_val=1.00\n> Telescoping Theo bought line follows\n> We WON the trade! Executed: bought 1 @ 0.00 against 933929 on option 7165199\n> FED: 3.75, AJR: 2338.20, THR: 243.91"
+    ]
+  }
+]

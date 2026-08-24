@@ -1,0 +1,114 @@
+Ranking:
+1. Telescoping Theo: $0.56
+2. Stalemate Quoter: $0.0
+Result: PASS (score=1.00)
+
+Ranking:
+1. Telescoping Theo: $0.7
+2. Fixed Width 0.1: $0.35
+3. Stalemate Quoter: $0.0
+Result: PASS (score=1.00)
+
+Ranking:
+1. Fixed Width 0.05: $2.9
+2. Mongoose: $0.3
+3. Telescoping Theo: $-0.02
+Result: PASS (score=1.00)
+
+Ranking:
+1. Telescoping Theo: $23.71
+2. Stalemate Quoter: $5.0
+Result: PASS (score=1.00)
+
+Ranking:
+1. Fixed Width 0.25: $13.4
+2. Stalemate Quoter: $0.0
+3. Telescoping Theo: $-2.03
+Result: PASS (score=0.40)
+
+Ranking:
+1. Telescoping Theo: $26.83
+2. Fixed Width 0.25: $5.89
+Result: PASS (score=1.00)
+
+Ranking:
+1. Fixed Width 0.1: $35.04
+2. Stalemate Quoter: $0.0
+3. Telescoping Theo: $-1.5
+Result: PASS (score=0.40)
+
+Ranking:
+1. Telescoping Theo: $34.47
+2. Fixed Width 0.1: $19.86
+3. Fixed Width 0.25: $-0.24
+Result: PASS (score=1.00)
+
+Ranking:
+1. Fixed Width 0.1: $41.2
+2. Telescoping Theo: $12.17
+3. Stalemate Quoter: $0.0
+Result: PASS (score=0.70)
+
+Ranking:
+1. Telescoping Theo: $3.21
+2. Fixed Width 0.05: $2.09
+3. Fixed Width 0.1: $1.45
+Result: PASS (score=1.00)
+
+Ranking:
+1. Telescoping Theo: $-0.72
+2. Fixed Width 0.05: $-3.26
+Result: PASS (score=1.00)
+
+Ranking:
+1. Fixed Width 0.1: $16.56
+2. Lattice: $10.19
+3. Telescoping Theo: $3.39
+4. Situational Unawareness: $3.38
+Result: PASS (score=0.60)
+
+Ranking:
+1. Lattice: $34.23
+2. Fixed Width 0.05: $12.86
+3. Telescoping Theo: $-10.05
+Result: PASS (score=0.40)
+
+Ranking:
+1. Lattice: $13.3
+2. Situational Unawareness: $10.75
+3. Telescoping Theo: $6.35
+Result: PASS (score=0.40)
+
+Ranking:
+1. Fixed Width 0.05: $9.15
+2. Lattice: $2.0
+3. Telescoping Theo: $-7.61
+Result: PASS (score=0.40)
+
+Ranking:
+1. Telescoping Theo: $37.74
+2. Lattice: $17.3
+3. Situational Unawareness: $15.0
+4. Mongoose: $-15.62
+Result: PASS (score=1.00)
+
+Ranking:
+1. Fixed Width 0.05: $52.0
+2. Lattice: $-2.84
+3. Telescoping Theo: $-10.99
+4. Mongoose: $-30.64
+Result: PASS (score=0.60)
+
+Ranking:
+1. Situational Unawareness: $22.88
+2. Mongoose: $-14.42
+3. Telescoping Theo: $-15.08
+4. Fixed Width 0.05: $-21.03
+Result: PASS (score=0.60)
+
+Ranking:
+1. Lattice: $-12.32
+2. Telescoping Theo: $-14.21
+3. Mongoose: $-32.85
+4. Fixed Width 0.05: $-99.19
+Result: PASS (score=0.80)
